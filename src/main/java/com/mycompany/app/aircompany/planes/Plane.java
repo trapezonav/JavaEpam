@@ -1,4 +1,4 @@
-package Planes;
+package com.mycompany.app.aircompany.planes;
 
 import java.util.Objects;
 
