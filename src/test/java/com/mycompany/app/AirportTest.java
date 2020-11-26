@@ -60,7 +60,7 @@ public class AirportTest {
         airport.sortByMaxLoadCapacity();
         List<? extends Plane> planesSortedByMaxLoadCapacity = airport.getPlanes();
         for (int i = 0; i < planesSortedByMaxLoadCapacity.size() - 1; i++) {
-            Assert.assertTrue(planesSortedByMaxLoadCapacity.get(i).getMaxLoadCapacity() > planesSortedByMaxLoadCapacity.get(i+1).getMaxLoadCapacity());
+            Assert.assertTrue(planesSortedByMaxLoadCapacity.get(i).getMaxLoadCapacity() < planesSortedByMaxLoadCapacity.get(i+1).getMaxLoadCapacity());
         }
     }
 

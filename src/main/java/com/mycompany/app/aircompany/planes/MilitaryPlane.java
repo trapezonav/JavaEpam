@@ -1,7 +1,5 @@
 package com.mycompany.app.aircompany.planes;
 
-
-
 import com.mycompany.app.aircompany.models.MilitaryType;
 
 import java.util.Objects;

@@ -1,6 +1,5 @@
 package com.mycompany.app.aircompany;
 
-import com.mycompany.app.aircompany.Airport;
 import com.mycompany.app.aircompany.models.MilitaryType;
 import com.mycompany.app.aircompany.planes.MilitaryPlane;
 import com.mycompany.app.aircompany.planes.PassengerPlane;

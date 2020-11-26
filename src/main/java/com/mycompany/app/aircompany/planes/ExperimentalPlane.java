@@ -1,6 +1,5 @@
 package com.mycompany.app.aircompany.planes;
 
-
 import com.mycompany.app.aircompany.models.ClassificationLevel;
 import com.mycompany.app.aircompany.models.ExperimentalTypes;
 
